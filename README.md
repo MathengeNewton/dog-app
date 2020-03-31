@@ -1,4 +1,4 @@
-# jobby-app
+# kenel interaction system
 
 ## Project setup
 ```
